@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sad
 int main()
 {
     int a[10][10], transpose[10][10], r, c, i, j;
