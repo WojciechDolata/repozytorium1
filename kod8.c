@@ -14,3 +14,5 @@ int main()
 
    return 0;
 }
+
+//int nic bo to komentarz 
