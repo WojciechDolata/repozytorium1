@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//komentarz
 int main()
 {
     char line[150];
