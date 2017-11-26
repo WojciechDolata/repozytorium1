@@ -4,6 +4,7 @@ long int multiplyNumbers(int n);
 int main()
 {
     int n;
+    int c=2;
     printf("Enter a positive integer: ");
     scanf("%d", &n);
     printf("Factorial of %d = %ld", n, multiplyNumbers(n));
