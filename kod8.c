@@ -4,7 +4,7 @@ int main()
 {
    int data[5], i;
    printf("Enter elements: ");
-
+   //komentarz
    for(i = 0; i < 5; ++i)
      scanf("%d", data + i);
 
