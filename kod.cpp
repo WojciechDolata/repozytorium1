@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-//pies na baby
+//pi** na kobiety
 long long convertOctalToDecimal(int octalNumber);
 int main()
 {
