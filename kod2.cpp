@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-//tutaj jest po includach
+//tutaj już nie ma tego czegos po includach
 long long convertOctalToDecimal(int octalNumber);
 int main()
 {
