@@ -4,7 +4,7 @@ void cyclicSwap(int *a,int *b,int *c);
 int main()
 {
     int a, b, c;
-    int wart=-1;
+    int wart=1;
     printf("Enter a, b and c respectively: ");
     scanf("%d %d %d",&a,&b,&c);
 
